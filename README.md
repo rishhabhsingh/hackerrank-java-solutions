@@ -2,7 +2,7 @@
 
 Welcome to my collection of **HackerRank Java practice problems**!  
 This repository contains my solutions to various Java challenges on [HackerRank](https://www.hackerrank.com/).  
-The goal is simple — **build a daily coding habit** and improve my problem-solving skills 💪  
+The goal is simple — **build a daily coding habit** and improve my problem-solving skills 💪.  
 
 ---
 
@@ -20,15 +20,15 @@ All files are organized and numbered for easy navigation.
 
 ## 🧠 Topics Covered
 
-- Basic Input / Output  
-- Conditional Statements  
-- Loops  
-- Strings  
-- Arrays  
-- Functions  
-- Object-Oriented Programming  
-- Exception Handling  
-- Data Structures  
+- Basic Input / Output.  
+- Conditional Statements.  
+- Loops.  
+- Strings. 
+- Arrays.  
+- Functions.  
+- Object-Oriented Programming.  
+- Exception Handling.  
+- Data Structures.  
 
 ---
 
@@ -61,6 +61,7 @@ All files are organized and numbered for easy navigation.
    
 4. **Compile and run any Java file**
   javac Q01_Java_Stdin_Stdout.java
+
   java Q01_Java_Stdin_Stdout
 
 ---
@@ -69,19 +70,19 @@ All files are organized and numbered for easy navigation.
 
 I created this repo to:
 
-  Stay consistent with coding every day 🕒
+  Stay consistent with coding every day 🕒.
   
-  Build confidence in Java syntax and problem-solving
+  Build confidence in Java syntax and problem-solving.
   
-  Get comfortable with Git & GitHub workflow
+  Get comfortable with Git & GitHub workflow.
   
-  Slowly fill my GitHub green graph 🌱
+  Slowly fill my GitHub green graph 🌱.
 
 ---
 
 ## 📬 Connect With Me
   If you’re also practicing Java or using HackerRank, feel free to connect —
-  we can learn and grow together 👇
+  we can learn and grow together 👇:
 
   💻 HackerRank Profile: https://www.hackerrank.com/profile/singhrishabh2308
 
