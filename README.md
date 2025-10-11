@@ -56,9 +56,10 @@ All files are organized and numbered for easy navigation.
    git clone https://github.com/<your-username>/hackerrank-java-solutions.git
    
 2. **Navigate to the source folder**
-   ```cd hackerrank-java-solutions/src
+   ```bash
+   cd hackerrank-java-solutions/src
    
-3. **Compile and run any Java file**
+4. **Compile and run any Java file**
   javac Q01_Java_Stdin_Stdout.java
   java Q01_Java_Stdin_Stdout
 
@@ -67,9 +68,13 @@ All files are organized and numbered for easy navigation.
 ## 🧩 Why This Repo Exists
 
 I created this repo to:
+
   Stay consistent with coding every day 🕒
+  
   Build confidence in Java syntax and problem-solving
+  
   Get comfortable with Git & GitHub workflow
+  
   Slowly fill my GitHub green graph 🌱
 
 ---
