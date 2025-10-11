@@ -60,8 +60,8 @@ All files are organized and numbered for easy navigation.
    cd hackerrank-java-solutions/src
    
 4. **Compile and run any Java file**
+  ```bash
   javac Q01_Java_Stdin_Stdout.java
-
   java Q01_Java_Stdin_Stdout
 
 ---
