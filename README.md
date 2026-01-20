@@ -1,5 +1,14 @@
 # ☕ HackerRank Java Solutions
 
+<p align="center">  
+	<br>
+	<a href="https://www.hackerrank.com/profile/Pavith_DB">
+        <img height=100 src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg"> 
+    </a>
+    <br>
+    <br>
+</p>
+
 Welcome to my collection of **HackerRank Java practice problems**!  
 This repository contains my solutions to various Java challenges on [HackerRank](https://www.hackerrank.com/).  
 The goal is simple — **build a daily coding habit** and improve my problem-solving skills 💪.  
@@ -84,9 +93,6 @@ I created this repo to:
   If you’re also practicing Java or using HackerRank, feel free to connect —
   we can learn and grow together 👇:
 
-  💻 HackerRank Profile: https://www.hackerrank.com/profile/singhrishabh2308
-
-  🧑‍💼 LinkedIn: www.linkedin.com/in/rishabh-singh-b13773225
-
-  🐙 GitHub: https://github.com/rishhabhsingh
+  <a href="www.linkedin.com/in/rishabh-singh-b13773225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavith-bambaravanage-465300293" height="25" width="35" /></a>
+  <a href="https://www.hackerrank.com/profile/singhrishabh2308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pavith_db" height="40" width="45" /></a>
 
